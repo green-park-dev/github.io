@@ -14,8 +14,8 @@ url:              'https://green-park-dev.github.io'
 baseurl:          'https://green-park-dev.github.io'
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Green Park'
+  url:            https://green-park-dev.github.io
 
 paginate:         5
 
